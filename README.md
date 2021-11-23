@@ -62,31 +62,41 @@ Replacing the 9th graders' math and reading scores actually had very little effe
   
     **Original Math & Reading chart by grade:**
     ![Pic 7](https://github.com/charlagarcia/School_District_Analysis/blob/main/Resources/math%20and%20reading%20original.png)
+    
     **Recalculated Math & Reading chart by grade:**
     ![Pic 8](https://github.com/charlagarcia/School_District_Analysis/blob/main/Resources/math%20and%20reading%20updated.png)
  
 - #### Scores by school spending
     - Replacing the 9th graders' math and reading scores at Thomas High School did not affect the scores based on spending ranges per student at all.
+    
     **Original chart of scores by school spending:**
     ![Pic9](https://github.com/charlagarcia/School_District_Analysis/blob/main/Resources/Spending%20summary%20original.png)
+    
     **Recalculated chart of scores by school spending:**
     ![Pic 10](https://github.com/charlagarcia/School_District_Analysis/blob/main/Resources/spending%20summary%20updated.png)
+
 - #### Scores by school size
     - Replacing the 9th graders' math and reading scores at Thomas High School did not affect the scores based on school size at all.
+    
     **Original chart of scores by school size:**
     ![Pic 11](https://github.com/charlagarcia/School_District_Analysis/blob/main/Resources/school%20size%20original.png)
+   
     **Recalculated chart of scores by school size:**
     ![Pic 12](https://github.com/charlagarcia/School_District_Analysis/blob/main/Resources/school%20size%20updated.png)
+
 - #### Scores by school type
     - Replacing the 9th graders' math and reading scores at Thomas High School did not affect the scores based on school type at all.
+    
     **Original chart of scores by school type:**
     ![Pic 13](https://github.com/charlagarcia/School_District_Analysis/blob/main/Resources/school%20type%20original.png)
+    
     **Recalculated chart of scores by school type:**
     ![Pic 14](https://github.com/charlagarcia/School_District_Analysis/blob/main/Resources/school%20type%20updated.png)
 
 ## Summary
 Summarize four changes in the updated school district analysis after reading and math scores for the 9th grade at THS have been replaced by NaNs.
-    1. 
-    2. 
-    3. 
-    4. 
+
+    1. The school district as a whole had the overall passing percengae decrease by 0.32%.
+    2. Thomas High School had its overall passing percentage also decrease by 0.32%.
+    3. The school district's percentage of students who passed reading only decreased by 0.15%.
+    4. Thomas High School's percentage of students who passed math decreased by 0.09%.
