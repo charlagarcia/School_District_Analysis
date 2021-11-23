@@ -42,10 +42,10 @@ After the data was reviewed by the school board, they notified Maria and her sup
 #write about how school summary changed
 
 **Original School Summary Analysis:**
-![Pic 3](https://github.com/charlagarcia/School_District_Analysis/blob/main/Resources/School%20summary%20original.png)
+![Pic 3](https://github.com/charlagarcia/School_District_Analysis/blob/main/Resources/THS%20School%20Summary%20Original.png)
 
 **Recalculated School Summary Analysis:**
-![Pic 4](https://github.com/charlagarcia/School_District_Analysis/blob/main/Resources/School%20summary%20updated.png)
+![Pic 4](https://github.com/charlagarcia/School_District_Analysis/blob/main/Resources/THS%20School%20Summary%20Updated.png)
 
 ### How did replacing the 9th graders' math and reading scores affect Thomas High School's performance relative to other schools?
 Replacing the 9th graders' math and reading scores actually had very little effect on the overall percentages.  In fact, as it was less than one percent difference, it didn't change THS's ranking at all.  They remain in the #2 position.
@@ -59,29 +59,29 @@ Replacing the 9th graders' math and reading scores actually had very little effe
 ### How did replacing the 9th grade scores affect the following:
 - Math and reading scores by grade
   - #write analysis
-  - 
+  
   - **Original Math & Reading chart by grade:**
-  - ![Pic 7](   )
+  - ![Pic 7](https://github.com/charlagarcia/School_District_Analysis/blob/main/Resources/math%20scores%20by%20grade%20original.png) ![Pic 7.5](https://github.com/charlagarcia/School_District_Analysis/blob/main/Resources/Reading%20scores%20by%20grade%20original.png)
   - **Recalculated Math & Reading chart by grade:**
-  - ![Pic 8](  )
+  - ![Pic 8](https://github.com/charlagarcia/School_District_Analysis/blob/main/Resources/math%20scores%20by%20grade%20updated.png) ![Pic 8.5](https://github.com/charlagarcia/School_District_Analysis/blob/main/Resources/reading%20scores%20by%20grade%20updated.png)
 - Scores by school spending
   - #write analysis
   - **Original chart of scores by school spending:**
-  - ![Pic9](  )
+  - ![Pic9](https://github.com/charlagarcia/School_District_Analysis/blob/main/Resources/Spending%20summary%20original.png)
   - **Recalculated chart of scores by school spending:**
-  - ![Pic 10](  )
+  - ![Pic 10](https://github.com/charlagarcia/School_District_Analysis/blob/main/Resources/spending%20summary%20updated.png)
 - Scores by school size
     - #write analysis
     - **Original chart of scores by school size:**
-    - ![Pic 11](   )
+    - ![Pic 11](https://github.com/charlagarcia/School_District_Analysis/blob/main/Resources/school%20size%20original.png)
     - **Recalculated chart of scores by school size:**
-    - ![Pic 12](   )
+    - ![Pic 12](https://github.com/charlagarcia/School_District_Analysis/blob/main/Resources/school%20size%20updated.png)
 - Scores by school type
     - #write analysis
     - **Original chart of scores by school type:**
-    - ![Pic 13](  )
+    - ![Pic 13](https://github.com/charlagarcia/School_District_Analysis/blob/main/Resources/school%20type%20original.png)
     - **Recalculated chart of scores by school type:**
-    - ![Pic 14](  )
+    - ![Pic 14](https://github.com/charlagarcia/School_District_Analysis/blob/main/Resources/school%20type%20updated.png)
 
 ## Summary
 Summarize four changes in the updated school district analysis after reading and math scores for the 9th grade at THS have been replaced by NaNs.
