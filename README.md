@@ -67,5 +67,21 @@ Recalculated Top Five chart:
   - Recalculated chart of scores by school spending:
   - ![Pic 10](  )
 - Scores by school size
-- 
+    - #write analysis
+    - Original chart of scores by school size:
+    - ![Pic 11](   )
+    - Recalculated chart of scores by school size
+    - ![Pic 12](   )
 - Scores by school type
+    - #write analysis
+    - Original chart of scores by school type:
+    - ![Pic 13](  )
+    - Recalculated chart of scores by school type:
+    - ![Pic 14](  )
+
+## Summary
+Summarize four changes in the updated school district analysis after reading and math scores for the 9th grade at THS have been replaced by NaNs.
+    1. 
+    2. 
+    3. 
+    4. 
