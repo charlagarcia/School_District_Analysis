@@ -31,52 +31,56 @@ After the data was reviewed by the school board, they notified Maria and her sup
 
 ### How was the District Summary affected?
 #write about how district summary changed
-Original District Summary Analysis:
-![Pic 1](          )
 
-Recalculated District Summary Analysis:
-![Pic 2](      )
+**Original District Summary Analysis:**
+![Pic 1](https://github.com/charlagarcia/School_District_Analysis/blob/main/Resources/District%20summary%20original.png)
+
+**Recalculated District Summary Analysis:**
+![Pic 2](https://github.com/charlagarcia/School_District_Analysis/blob/main/Resources/District%20summary%20updated.png)
 
 ### How was the School Summary affected?
 #write about how school summary changed
-Original School Summary Analysis:
-![Pic 3](     )
 
-Recalculated School Summary Analysis:
-![Pic 4](        )
+**Original School Summary Analysis:**
+![Pic 3](https://github.com/charlagarcia/School_District_Analysis/blob/main/Resources/School%20summary%20original.png)
+
+**Recalculated School Summary Analysis:**
+![Pic 4](https://github.com/charlagarcia/School_District_Analysis/blob/main/Resources/School%20summary%20updated.png)
 
 ### How did replacing the 9th graders' math and reading scores affect Thomas High School's performance relative to other schools?
-#write about how THS changed in order
-Original Top Five chart:
-![Pic 5]( )
+Replacing the 9th graders' math and reading scores actually had very little effect on the overall percentages.  In fact, as it was less than one percent difference, it didn't change THS's ranking at all.  They remain in the #2 position.
 
-Recalculated Top Five chart:
-![Pic 6](   )
+**Original Top Five chart:**
+![Pic 5](https://github.com/charlagarcia/School_District_Analysis/blob/main/Resources/Top%205%20schools%20original.png)
+
+**Recalculated Top Five chart:**
+![Pic 6](https://github.com/charlagarcia/School_District_Analysis/blob/main/Resources/Top%205%20schools%20updated.png)
 
 ### How did replacing the 9th grade scores affect the following:
 - Math and reading scores by grade
   - #write analysis
-  - Original Math & Reading chart by grade:
+  - 
+  - **Original Math & Reading chart by grade:**
   - ![Pic 7](   )
-  - Recalculated Math & Reading chart by grade:
+  - **Recalculated Math & Reading chart by grade:**
   - ![Pic 8](  )
 - Scores by school spending
   - #write analysis
-  - Original chart of scores by school spending:
+  - **Original chart of scores by school spending:**
   - ![Pic9](  )
-  - Recalculated chart of scores by school spending:
+  - **Recalculated chart of scores by school spending:**
   - ![Pic 10](  )
 - Scores by school size
     - #write analysis
-    - Original chart of scores by school size:
+    - **Original chart of scores by school size:**
     - ![Pic 11](   )
-    - Recalculated chart of scores by school size
+    - **Recalculated chart of scores by school size:**
     - ![Pic 12](   )
 - Scores by school type
     - #write analysis
-    - Original chart of scores by school type:
+    - **Original chart of scores by school type:**
     - ![Pic 13](  )
-    - Recalculated chart of scores by school type:
+    - **Recalculated chart of scores by school type:**
     - ![Pic 14](  )
 
 ## Summary
