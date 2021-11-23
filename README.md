@@ -30,7 +30,7 @@ After the data was reviewed by the school board, they notified Maria and her sup
 ## Results
 
 ### How was the District Summary affected?
-#write about how district summary changed
+After replacing the scores for math and reading at Thomas High School, the district summary was only minimally changed.  The percentages for passing math, passing reading, and the overall passing percentage were all lowered by about a quarter of a percent.
 
 **Original District Summary Analysis:**
 ![Pic 1](https://github.com/charlagarcia/School_District_Analysis/blob/main/Resources/District%20summary%20original.png)
@@ -39,7 +39,7 @@ After the data was reviewed by the school board, they notified Maria and her sup
 ![Pic 2](https://github.com/charlagarcia/School_District_Analysis/blob/main/Resources/District%20summary%20updated.png)
 
 ### How was the School Summary affected?
-#write about how school summary changed
+The percent of students passing at Thomas High School were also only minimally affected.  The percentages for students who passed math, passed reading, and passed overall were all lowered by about a quarter of a percent.
 
 **Original School Summary Analysis:**
 ![Pic 3](https://github.com/charlagarcia/School_District_Analysis/blob/main/Resources/THS%20School%20Summary%20Original.png)
@@ -57,31 +57,32 @@ Replacing the 9th graders' math and reading scores actually had very little effe
 ![Pic 6](https://github.com/charlagarcia/School_District_Analysis/blob/main/Resources/Top%205%20schools%20updated.png)
 
 ### How did replacing the 9th grade scores affect the following:
-- Math and reading scores by grade
-  - #write analysis
+- #### Math and reading scores by grade
+    - Replacing the 9th grade scores for Thomas High School didn't affect overall grades at all.  Since the difference was less than half a percent and grades are rounded to the nearest whole number percent, the difference would only even be seen if percents are rounded to the hundredths place.
   
-  - **Original Math & Reading chart by grade:**
-  - ![Pic 7](https://github.com/charlagarcia/School_District_Analysis/blob/main/Resources/math%20scores%20by%20grade%20original.png) ![Pic 7.5](https://github.com/charlagarcia/School_District_Analysis/blob/main/Resources/Reading%20scores%20by%20grade%20original.png)
-  - **Recalculated Math & Reading chart by grade:**
-  - ![Pic 8](https://github.com/charlagarcia/School_District_Analysis/blob/main/Resources/math%20scores%20by%20grade%20updated.png) ![Pic 8.5](https://github.com/charlagarcia/School_District_Analysis/blob/main/Resources/reading%20scores%20by%20grade%20updated.png)
-- Scores by school spending
-  - #write analysis
-  - **Original chart of scores by school spending:**
-  - ![Pic9](https://github.com/charlagarcia/School_District_Analysis/blob/main/Resources/Spending%20summary%20original.png)
-  - **Recalculated chart of scores by school spending:**
-  - ![Pic 10](https://github.com/charlagarcia/School_District_Analysis/blob/main/Resources/spending%20summary%20updated.png)
-- Scores by school size
-    - #write analysis
-    - **Original chart of scores by school size:**
-    - ![Pic 11](https://github.com/charlagarcia/School_District_Analysis/blob/main/Resources/school%20size%20original.png)
-    - **Recalculated chart of scores by school size:**
-    - ![Pic 12](https://github.com/charlagarcia/School_District_Analysis/blob/main/Resources/school%20size%20updated.png)
-- Scores by school type
-    - #write analysis
-    - **Original chart of scores by school type:**
-    - ![Pic 13](https://github.com/charlagarcia/School_District_Analysis/blob/main/Resources/school%20type%20original.png)
-    - **Recalculated chart of scores by school type:**
-    - ![Pic 14](https://github.com/charlagarcia/School_District_Analysis/blob/main/Resources/school%20type%20updated.png)
+    **Original Math & Reading chart by grade:**
+    ![Pic 7](https://github.com/charlagarcia/School_District_Analysis/blob/main/Resources/math%20and%20reading%20original.png)
+    **Recalculated Math & Reading chart by grade:**
+    ![Pic 8](https://github.com/charlagarcia/School_District_Analysis/blob/main/Resources/math%20and%20reading%20updated.png)
+ 
+- #### Scores by school spending
+    - Replacing the 9th graders' math and reading scores at Thomas High School did not affect the scores based on spending ranges per student at all.
+    **Original chart of scores by school spending:**
+    ![Pic9](https://github.com/charlagarcia/School_District_Analysis/blob/main/Resources/Spending%20summary%20original.png)
+    **Recalculated chart of scores by school spending:**
+    ![Pic 10](https://github.com/charlagarcia/School_District_Analysis/blob/main/Resources/spending%20summary%20updated.png)
+- #### Scores by school size
+    - Replacing the 9th graders' math and reading scores at Thomas High School did not affect the scores based on school size at all.
+    **Original chart of scores by school size:**
+    ![Pic 11](https://github.com/charlagarcia/School_District_Analysis/blob/main/Resources/school%20size%20original.png)
+    **Recalculated chart of scores by school size:**
+    ![Pic 12](https://github.com/charlagarcia/School_District_Analysis/blob/main/Resources/school%20size%20updated.png)
+- #### Scores by school type
+    - Replacing the 9th graders' math and reading scores at Thomas High School did not affect the scores based on school type at all.
+    **Original chart of scores by school type:**
+    ![Pic 13](https://github.com/charlagarcia/School_District_Analysis/blob/main/Resources/school%20type%20original.png)
+    **Recalculated chart of scores by school type:**
+    ![Pic 14](https://github.com/charlagarcia/School_District_Analysis/blob/main/Resources/school%20type%20updated.png)
 
 ## Summary
 Summarize four changes in the updated school district analysis after reading and math scores for the 9th grade at THS have been replaced by NaNs.
